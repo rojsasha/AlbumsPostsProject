@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlbumsPostsProject</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_posts">Posts</string>
+    <string name="text_progressbar">Please wait</string>
+    <string name="text_toolbar">AlbumsProject</string>
+    <string name="todo">TODO</string>
+</resources>

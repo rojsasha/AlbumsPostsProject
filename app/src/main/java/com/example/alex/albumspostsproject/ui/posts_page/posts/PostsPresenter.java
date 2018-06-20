@@ -7,8 +7,6 @@ import com.example.alex.albumspostsproject.data.network.RetrofitService;
 
 import java.util.ArrayList;
 import java.util.Random;
-
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
